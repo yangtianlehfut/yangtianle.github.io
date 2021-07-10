@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yang.test",
+    "sha256_cert_fingerprints":
+    ["8A:8A:28:55:8D:5E:AD:9D:2A:2A:6C:C1:29:79:03:9F:03:49:C1:F4:26:AB:8C:16:0B:F9:27:15:18:28:E7:98"]
+  }
+}]
